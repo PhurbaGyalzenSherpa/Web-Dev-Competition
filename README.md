@@ -17,7 +17,7 @@ Clone or download this repository and open it in your editor of choice. In a ter
 That will create a new folder `venv` in your project directory. Next activate it with this command on your windows powershell:
 
 ```
-> venv/scripts/activate
+> venv/scripts/activate.bat
 ```
 
 Then install the project dependencies with
