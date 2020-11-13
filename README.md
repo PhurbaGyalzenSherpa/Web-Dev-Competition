@@ -36,4 +36,4 @@ Now click [here](http://127.0.0.1:8000/ "http://localhost:8000/") to see the pro
 
 Finally the setup has been completed.
 
-> Keep smiling, workharder and lets win this competition together.
+> Keep smiling, work harder and lets win this competition together.
